@@ -1,0 +1,31 @@
+JAVA
+1.기본문법 - 기본문법 : 자료형, 변수, 연산자, 제어문, 배열
+2.OOP - 클래스(Class), 인터페이스(Interface), 이넘(Enum)
+      - 추상화, 캡슐화(은닉화), 다형성, 상속성
+3.API - 배포된 클래스 활용
+
+
+
+- 크롬
+- 반디집
+- 나눔고딕코딩
+
+ -클래스명은 파스칼 표기법을 이용하여 작성하는 것을 권장(클래스(Class), 인터페이스(Interface), 이넘(Enum))
+
+ => 파스칼 표기법(PascalCase) : 조합된 단어의 첫문자를 대문자로 표기하는 방법
+
+	ex) public class HelloWorld
+
+ - 클래스 영역에는 필드(Field), 생성자(Constructor), 메소드(Method) 선언
+	main 메소드가 1개 있어야한다.
+
+	 명령이 시작되는 지점을 의미 
+
+    형식) public static void main(String[] args){
+		명령;
+		명령;
+	} 
+
+ - 명령(Statement) 뒤에는 반드시 ;를 붙인다.
+
+ - 메소드 안의 명령은 순차적으로 실행 
